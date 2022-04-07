@@ -9,7 +9,7 @@ Yes, i will make the desktop version of this project, i will publish it here in 
 # How about "Dark Mode"?
 I was working on it soon.
 # Change Log
-- 
+- Published PixlJS V1 (7 Apr 2022)
 # Images
 ![image](https://user-images.githubusercontent.com/84184180/162099547-cd1756c9-f85b-4f2f-8d14-2cb6c762b575.png)
 ![image](https://user-images.githubusercontent.com/84184180/162099659-95f2caa9-2f3b-4ec1-81e7-1a4c9789d5e0.png)
