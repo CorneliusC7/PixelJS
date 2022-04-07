@@ -44,6 +44,9 @@ function crt(){
         var ch = prompt('canvas height (px, default 500px): ')
         var cnv = document.createElement('canvas')
         cnv.id = "myCanvas";
+        cnv.addEventListener(contextmenu, function(){
+            return false;   
+        }
         if (ch == "" || !isNumeric(ch)){
             ch = 500
         }
