@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+canvas{
+    margin: 5px !important;
+    border: 1px solid black;
+}
+button{
+    color: rgba(255, 255, 255, 0.662) !important;
+    text-decoration: none !important;
+    transition: .4s;
+}
+button:hover{
+    color: white !important;
+}
+#k{
+    display: none;
+}
+#kk{
+    display: none;
+}
+#kkk{
+    display: none;
+}
+#kkkk{
+    display: none;
+}
