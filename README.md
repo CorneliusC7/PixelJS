@@ -6,3 +6,4 @@ Clone my project using git
 git clone https://github.com/CorneliusC7/PixlJS.git
 cd PixlJS
 ```
+You can modify the script freely for non-commercial use.
